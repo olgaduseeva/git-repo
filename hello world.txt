@@ -1,4 +1,4 @@
-Print("Hello world10:30 29.05.2019")
-Print("Hello everybody")
-print("Hello")
-print("hello my dear friend")
+Print("Hello world10:30 29.05.2019;")
+Print("Hello everybody;")
+print("Hello;")
+print("hello my dear friend;")
